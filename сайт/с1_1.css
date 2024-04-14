@@ -1,0 +1,27 @@
+h1{
+  color: #7CFC00; /* установить цвет ссылки на красный */
+ text-align: center;
+}
+
+p {
+ color: #7CFC00; 
+  font-size: 30px; /* установить размер текста в 20 пикселей */
+  text-align: center;
+}
+ body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        video {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+}
+body {
+  background-image: url('р4.jpg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 100vh; 
+}
